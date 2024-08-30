@@ -1,0 +1,3 @@
+com\myapp\azureblob\AzureBlobService.class
+com\myapp\azureblob\AzureBlobController.class
+com\myapp\azureblob\AzureblobApplication.class
